@@ -1,0 +1,37 @@
+{
+  "reactor": {
+    "name": "Реактор",
+    "description": "Увеличивает производство энергии",
+    "baseCost": 100,
+    "costMultiplier": 1.5,
+    "effect": "Увеличивает сбор ресурсов на 5% за уровень"
+  },
+  "storage": {
+    "name": "Хранилище",
+    "description": "Увеличивает максимальное количество ресурсов",
+    "baseCost": 50,
+    "costMultiplier": 1.3,
+    "effect": "+100 к максимальным ресурсам за уровень"
+  },
+  "weapon": {
+    "name": "Оружейная",
+    "description": "Увеличивает силу атаки",
+    "baseCost": 150,
+    "costMultiplier": 1.8,
+    "effect": "+10% к силе атаки за уровень"
+  },
+  "shield": {
+    "name": "Щиты",
+    "description": "Увеличивает защиту",
+    "baseCost": 120,
+    "costMultiplier": 1.6,
+    "effect": "+10% к защите за уровень"
+  },
+  "research": {
+    "name": "Лаборатория",
+    "description": "Ускоряет исследования",
+    "baseCost": 200,
+    "costMultiplier": 2.0,
+    "effect": "-5% к времени исследований за уровень"
+  }
+}

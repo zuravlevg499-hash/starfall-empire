@@ -1,0 +1,32 @@
+{
+  "first_collect": {
+    "name": "Первый сбор",
+    "description": "Собрать ресурсы в первый раз",
+    "reward": 50
+  },
+  "level_5": {
+    "name": "Опытный строитель",
+    "description": "Достичь 5 уровня станции",
+    "reward": 200
+  },
+  "level_10": {
+    "name": "Мастер станций",
+    "description": "Достичь 10 уровня станции",
+    "reward": 500
+  },
+  "first_upgrade": {
+    "name": "Первое улучшение",
+    "description": "Купить первое улучшение",
+    "reward": 100
+  },
+  "rich": {
+    "name": "Богач",
+    "description": "Накопить 1000 ресурсов",
+    "reward": 300
+  },
+  "crystal_king": {
+    "name": "Король кристаллов",
+    "description": "Иметь 500 кристаллов",
+    "reward": 1000
+  }
+}
